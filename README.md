@@ -67,7 +67,7 @@ rock-paper-scissors-gui/
 ## How to Contribute
 Feel free to submit issues and enhancement requests or fork the repository and submit pull requests. Contributions are welcome!
 
-1. Fork it (https://github.com/Yashas711/rock-paper-scissors-gui/fork)
+1. Fork it (https://github.com/Yashas711/Rock-Paper-Scissors-GUI-Game/fork)
 2. Create your feature branch (`git checkout -b feature/new-feature`)
 3. Commit your changes (`git commit -am 'Add some new feature`)
 4. Push to the branch (`git push origin feature/new-feature`)
