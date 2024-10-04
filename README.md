@@ -49,7 +49,7 @@ rock-paper-scissors-gui/
 ├── paper.png                    # Image for paper
 ├── scissors.png                 # Image for scissors
 ├── README.md                    # This README file
-└── requirements.txt             # List of dependencies (Pillow)
+└── Screenshots                  # Screenshots of game
 ```
 ## Game Logic
 - Rock beats Scissors
