@@ -80,3 +80,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 Yashas R Yadav - GitHub
+
+<!-- MARKDOWN LINKS -->
+[rock-image]: https://github.com/Yashas711/Rock-Paper-Scissors-GUI-Game/blob/main/rock.png
