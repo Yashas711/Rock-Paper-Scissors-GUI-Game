@@ -58,6 +58,8 @@ rock-paper-scissors-gui/
 - If both the player and the computer choose the same option, it results in a Tie.
 
 ## Screenshots
+![Screenshot 2024-10-04 225909](https://github.com/user-attachments/assets/11a25c47-9e14-4044-b82a-6f8ce0c00c3a)
+![Screenshot 2024-10-04 225932](https://github.com/user-attachments/assets/1eadc6ea-a37c-4e4e-aca2-2f04caceb268)
 
 ## Built With
 - Python - The core programming language used.
