@@ -36,7 +36,7 @@ pip install pillow
   ```
   3. Make sure you have the images `rock.png` , `paper.png`, and `scissors.png` in the same directory as the script. If not, add them. You can download your own or find suitable images online.
 
-  4. Run the game:
+  5. Run the game:
   ```
 python rock_paper_scissors_gui.py
   ```
